@@ -1,0 +1,7 @@
+POST https://fs-phonebook-janika.fly.dev/
+Content-Type: application/json
+
+{
+    "name": "testaaja",
+    "number": "040-123456"
+}
