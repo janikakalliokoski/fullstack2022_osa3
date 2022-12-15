@@ -1,7 +1,2 @@
-POST https://fs-phonebook-janika.fly.dev/
+DELETE http://localhost:3001/api/persons/6399fd6a95c07ae1d5cba6b0
 Content-Type: application/json
-
-{
-    "name": "testaaja",
-    "number": "040-123456"
-}
